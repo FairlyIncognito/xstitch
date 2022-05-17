@@ -1,1 +1,1 @@
-## xStitch CMS
+## xStitch CMS - Laravel API Backend
